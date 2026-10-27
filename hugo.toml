@@ -14,9 +14,23 @@ theme = "PaperMod"
   ShowPostNavLinks = true
   ShowBreadCrumbs = false
   hideFooter = false
-  comments = false
+  comments = true
   disableSpecial1stPost = true
   ShowRssButtonInSectionTermList = true
+
+[params.giscus]
+    repo = "dan-mistu/dan-mitsu.github.io"
+    repoId = "R_kgDOVZA_uw"
+    category = "Announcements"
+    categoryId = "DIC_kwDOVZA_u84DJvIz"
+    mapping = "title"
+    strict = "0"
+    reactionsEnabled = "1"
+    emitMetadata = "0"
+    inputPosition = "bottom"
+    lightTheme = "light"
+    darkTheme = "dark"
+    lang = "zh-CN"
 
 [menu]
   [[menu.main]]
