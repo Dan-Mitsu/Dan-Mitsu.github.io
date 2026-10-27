@@ -24,6 +24,10 @@ theme = "PaperMod"
     pageRef = "/posts"
     weight = 1
   [[menu.main]]
+    name = "图文碎影"
+    pageRef = "/gallery/"
+    weight = 2
+  [[menu.main]]
     name = "关于"
     pageRef = "/about"
-    weight = 2
+    weight = 3
