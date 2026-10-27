@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:7420/</loc>
+    <loc>https://dan-mitsu.github.io/</loc>
     <lastmod>2026-10-27T17:18:30+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:7420/posts/</loc>
+    <loc>https://dan-mitsu.github.io/posts/</loc>
     <lastmod>2026-10-27T17:18:30+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:7420/posts/palu-note/</loc>
+    <loc>https://dan-mitsu.github.io/posts/palu-note/</loc>
     <lastmod>2026-10-27T17:18:30+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:7420/about/</loc>
+    <loc>https://dan-mitsu.github.io/about/</loc>
     <lastmod>2026-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7420/categories/</loc>
+    <loc>https://dan-mitsu.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:7420/tags/</loc>
+    <loc>https://dan-mitsu.github.io/tags/</loc>
   </url>
 </urlset>
