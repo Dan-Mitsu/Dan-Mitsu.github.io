@@ -1,0 +1,28 @@
+baseURL = "https://Dan-Mitsu.github.io/"
+languageCode = "zh-cn"
+title = "苏拉威西手记"
+theme = "PaperMod"
+
+[params]
+  homeInfoParams = {
+    Title = "苏拉威西手记",
+    Content = "帕卢、美娜多，一段驻外的观察与自省。"
+  }
+  ShowReadingTime = true
+  ShowWordCount = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = false
+  hideFooter = false
+  comments = false
+  disableSpecial1stPost = true
+  ShowRssButtonInSectionTermList = true
+
+[menu]
+  [[menu.main]]
+    name = "文章"
+    pageRef = "/posts"
+    weight = 1
+  [[menu.main]]
+    name = "关于"
+    pageRef = "/about"
+    weight = 2
