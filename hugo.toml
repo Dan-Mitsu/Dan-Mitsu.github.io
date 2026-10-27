@@ -4,6 +4,7 @@ title = "苏拉威西手记"
 theme = "PaperMod"
 
 [params]
+  customCSS = ["/css/custom.css"]
   homeInfoParams = {
     Title = "苏拉威西手记",
     Content = "帕卢、美娜多，一段驻外的观察与自省。"

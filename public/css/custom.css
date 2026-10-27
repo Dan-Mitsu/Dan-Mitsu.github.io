@@ -1,0 +1,56 @@
+/* 全局：柔和底色，降低对比度，护眼素雅 */
+:root {
+    --main-color: #2c2c2c;
+    --primary-color: #444444;
+    --secondary-color: #666666;
+    --tertiary-color: #888888;
+    --bg: #fafafa;
+    --entry-bg: #ffffff;
+    --border-color: #e8e8e8;
+    --code-bg: #f4f4f4;
+}
+
+/* 深色模式（配套同风格低饱和，不刺眼） */
+.dark {
+    --main-color: #dcdcdc;
+    --primary-color: #cacaca;
+    --secondary-color: #aaaaaa;
+    --tertiary-color: #888888;
+    --bg: #1c1c1c;
+    --entry-bg: #242424;
+    --border-color: #383838;
+    --code-bg: #2a2a2a;
+}
+
+/* 标题不要太粗，柔和一点 */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 500;
+    color: var(--primary-color);
+}
+
+/* 正文行高加宽，阅读随笔更舒服 */
+.post-content {
+    line-height: 1.8;
+}
+
+/* 链接去掉刺眼蓝色，低调下划线悬浮才显示 */
+.post-content a {
+    color: #597285;
+    text-decoration: none;
+}
+.post-content a:hover {
+    text-decoration: underline;
+}
+
+/* 导航栏、首页文字弱化 */
+.nav a {
+    color: var(--secondary-color);
+}
+.nav a:hover {
+    color: var(--main-color);
+}
+
+/* 首页卡片、分割线弱化 */
+hr {
+    border-color: var(--border-color);
+}
