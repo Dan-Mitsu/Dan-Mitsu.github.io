@@ -1,6 +1,5 @@
 baseURL = "https://dan-mitsu.github.io/"
-[locale]
-language = "zh-cn"
+locale = "zh-cn"
 title = "苏拉威西手记"
 theme = "PaperMod"
 
