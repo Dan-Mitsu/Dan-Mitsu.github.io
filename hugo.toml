@@ -1,13 +1,13 @@
 baseURL = "https://dan-mitsu.github.io/"
 locale = "zh-cn"
-title = "苏拉威西手记"
+title = "DanMitsu个人空间"
 theme = "PaperMod"
 
 [params]
   customCSS = ["/css/custom.css"]
   homeInfoParams = {
-    Title = "苏拉威西手记",
-    Content = "帕卢、美娜多，一段驻外的观察与自省。"
+    Title = "一些随记",
+    Content = "关于个人  关于世界  关于思考"
   }
   ShowReadingTime = true
   ShowWordCount = true
