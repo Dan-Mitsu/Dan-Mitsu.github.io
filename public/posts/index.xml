@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on 苏拉威西手记</title>
-    <link>https://dan-mitsu.github.io/posts/</link>
+    <link>http://localhost:8180/posts/</link>
     <description>Recent content in Posts on 苏拉威西手记</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 27 Oct 2026 17:18:30 +0800</lastBuildDate>
-    <atom:link href="https://dan-mitsu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:8180/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Palu Note</title>
-      <link>https://dan-mitsu.github.io/posts/palu-note/</link>
+      <link>http://localhost:8180/posts/palu-note/</link>
       <pubDate>Tue, 27 Oct 2026 17:18:30 +0800</pubDate>
-      <guid>https://dan-mitsu.github.io/posts/palu-note/</guid>
+      <guid>http://localhost:8180/posts/palu-note/</guid>
       <description>&lt;p&gt;帕卢小记&lt;/p&gt;
 &lt;p&gt;我从未设想过，自己竟会在这样一座小城里，消磨掉两个多月的光阴。&lt;/p&gt;
 &lt;p&gt;从前读书，或是翻阅旁人的游记，总觉得所谓小城，大抵是悠闲而静谧的。街巷里有缓慢流动的日子，有不紧不慢的人，连午后的阳光似乎也比别处慵懒一些。可帕卢偏偏不是这样。它嘈杂、粗粝，甚至有些狼狈，与我想象中的小城生活，几乎全然相反。&lt;/p&gt;
@@ -36,7 +36,7 @@
 &lt;p&gt;当然，我也知道，人终究是本性难移。两个多月的日子，还不足以让我变成另外一个人。我依然是那个受感性驱使、又用理性约束自己的人，依然逃不过现实与理想之间的种种矛盾。终有一天，我还是要离开这里，回到熟悉的人群中，继续在那些与我无关的喧嚣中消耗肉体，在浩浩荡荡的集体意志中磨损灵魂。对此，我并没有多少幻想，也谈不上什么不甘。毕竟我自己，也是那喧嚣的一部分。但至少在这段日子里，我曾把自己交还给自己。&lt;/p&gt;
 &lt;p&gt;窗外的棕榈树还在风里摇晃。&lt;/p&gt;
 &lt;p&gt;它大约也从来没有想过，自己为什么要生长。
-&lt;img alt=&#34;帕卢海岸&#34; loading=&#34;lazy&#34; src=&#34;https://dan-mitsu.github.io/img/1.jpg&#34;&gt;&lt;/p&gt;
+&lt;img alt=&#34;帕卢海岸&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:8180/img/1.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;于2026年10月下旬的零碎时间里，随便写写，试图证明自己大概还活着。&lt;/p&gt;</description>
     </item>
   </channel>
