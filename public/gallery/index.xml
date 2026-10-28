@@ -2,24 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>一些图片 on DanMitsu个人空间</title>
-    <link>http://localhost:3523/gallery/</link>
+    <link>http://localhost:13964/gallery/</link>
     <description>Recent content in 一些图片 on DanMitsu个人空间</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:3523/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:13964/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>孤独的树</title>
+      <link>http://localhost:13964/gallery/3/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:13964/gallery/3/</guid>
+      <description>&lt;p&gt;我看向它，它也看向我。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>旅途</title>
+      <link>http://localhost:13964/gallery/4/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:13964/gallery/4/</guid>
+      <description>&lt;p&gt;所有美好都会与你同行。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>窗外</title>
-      <link>http://localhost:3523/gallery/2/</link>
+      <link>http://localhost:13964/gallery/2/</link>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3523/gallery/2/</guid>
+      <guid>http://localhost:13964/gallery/2/</guid>
       <description>&lt;p&gt;起床看向窗外，列车驶过，东京就闯进了我的早晨。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>风</title>
-      <link>http://localhost:3523/gallery/1/</link>
+      <title>荒原</title>
+      <link>http://localhost:13964/gallery/5/</link>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3523/gallery/1/</guid>
+      <guid>http://localhost:13964/gallery/5/</guid>
+      <description>&lt;p&gt;最后的光，不再被荒原挽留。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>西部</title>
+      <link>http://localhost:13964/gallery/6/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:13964/gallery/6/</guid>
+      <description>&lt;p&gt;西部不一定真的在美国。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>风</title>
+      <link>http://localhost:13964/gallery/1/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:13964/gallery/1/</guid>
       <description>&lt;p&gt;风裹着草的味道，来到我的面前。&lt;/p&gt;</description>
     </item>
   </channel>
